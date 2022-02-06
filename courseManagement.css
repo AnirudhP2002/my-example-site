@@ -1,0 +1,24 @@
+
+h1 {
+  text-shadow: 0 0 3px #FF0000;
+}
+p
+{
+  background-color:lightgoldenrodyellow;
+  border: 5px double black;
+}
+img{
+  border: 5px double black;
+}
+body
+{
+ background-color: lightgray;
+}
+b{
+  background-color: lightgoldenrodyellow;
+  border: 2px dashed black;
+}
+ul{
+  background-color:lightgoldenrodyellow;
+  border: 5px double black;
+}
